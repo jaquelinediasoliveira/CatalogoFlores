@@ -23,7 +23,7 @@
 <br><h1>Autora</h1>
 
 <div align="center">
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/82879626?v=4" width="180px;" alt="Foto Jaqueline"/>
+<img style="border-radius: 50%; width:180px;" src="https://avatars.githubusercontent.com/u/82879626?v=4"alt="Foto Jaqueline"/>
 <br>
 <b style='font-size: 18px'>❤️ Jaqueline Dias ❤️</b>
 <p>Entre em contato!</p>
