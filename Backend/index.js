@@ -1,14 +1,6 @@
-const express = require('express');
-const app = express();
+const http = require('http');
 
-app.use(express.json());
-
-app.get('/Backend', (req, res) => { 
-    res.json("Hello, world!");
-});
-
-app.listen(3000, () => {
-    console.log("Porta 3000 rodando");
-});
-
-// ja instalei o cors e o mysql
+http.createServer((request, response) => {
+    response.writeHead(200, {'Content-type': 'application/json'});
+ 
+}).listen(4001, () => console.log('Servidor rodando na porta 4001'));
