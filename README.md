@@ -9,6 +9,7 @@
 
 - [ ] Cadastro do funcionário
 - [ ] Login do funcionário
+- [ ] Atualização dos dados do funcionário
 - [ ] Cadastro das flores
 - [ ] Listagem das flores
 - [ ] Atualização dos dados das flores
@@ -23,7 +24,7 @@
 <br><h1>Autora</h1>
 
 <div align="center">
-<img style="border-radius: 50%; width:180px;" src="https://avatars.githubusercontent.com/u/82879626?v=4"alt="Foto Jaqueline"/>
+<img style="border-radius: 180px; width:180px;" src="https://avatars.githubusercontent.com/u/82879626?v=4"alt="Foto Jaqueline"/>
 <br>
 <b style='font-size: 18px'>❤️ Jaqueline Dias ❤️</b>
 <p>Entre em contato!</p>
